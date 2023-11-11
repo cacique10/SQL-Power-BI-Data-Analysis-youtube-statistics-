@@ -19,3 +19,4 @@
 		- Top 8 Countries, % pay
 		
 		- Top 8 chanels types, % views
+<img src="https://github.com/cacique10/SQL-Power-BI-Data-Analysis-youtube-statistics-/blob/main/Final/power%20bi%20dashboard.pdf" alt="J" width="200"/>
